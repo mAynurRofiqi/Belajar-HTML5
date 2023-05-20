@@ -1,0 +1,21 @@
+h1{
+    text-align: center;
+    color: brown;
+}
+
+.atas{
+    color: red;
+}
+
+.bawah{
+    color: green;
+}
+
+.tabelsatu{
+    border: 1px solid rgb(89, 0, 255);
+    
+}
+
+td{
+    border: 1px solid rgb(89, 0, 255);
+}
